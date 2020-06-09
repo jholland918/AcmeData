@@ -8,5 +8,6 @@ namespace AcmeData
 {
     public class Class1
     {
+        // test
     }
 }
